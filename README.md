@@ -4,4 +4,8 @@
 # [Demo](https://youtu.be/t0rOSjZnwD8)
 
 # Dependencies
-## Oculus Integration
+Oculus Integration
+
+# Developer
++ [Xinyue Zhu](https://github.com/SharonZhu)
++ [Yiwen Xie](https://github.com/E-BAO/)
